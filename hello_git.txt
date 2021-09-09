@@ -5,10 +5,11 @@ vim hellogit.txt 创建txt文件并编辑
 按下[:wq]表示保存退出
 不需要进入编辑状态按下yy复制 按下p粘贴
 把光标移动到指定行 按下dd删除该行
-
-hello git
-hello git
-
+按下[cat] 文件名 查看指定文件的内容
 git add 文件名 表示将文件提交到暂存区
 git status 查看当前git状态
 git rm --cached 文件名 表示从暂存区中删除该文件
+
+
+
+hot-fix changed
