@@ -9,3 +9,6 @@ vim hellogit.txt 创建txt文件并编辑
 git add 文件名 表示将文件提交到暂存区
 git status 查看当前git状态
 git rm --cached 文件名 表示从暂存区中删除该文件
+
+
+你好
